@@ -106,13 +106,13 @@ Want to create your own? See [YOURTEMPLATE.md](./YOURTEMPLATE.md).
 5. Wait for import to complete (status shows on top)
 6. Open the solution and **turn on** the flow
 
-📸 [Screenshots](https://johantre.github.io/ms-outlook-invite/pa.html) | 📖 [Details](./POWER-AUTOMATE-IMPORT.md)
+📸 [Screenshots](https://johantre.github.io/msoutlook-invite/pa.html) | 📖 [Details](./POWER-AUTOMATE-IMPORT.md)
 
 ### Step 3: Configure Jira Automation
 
 Create / Import your Jira Automation rule by following [JIRA-AUTOMATION.md](./JIRA-AUTOMATION.md).
 
-📸 [Screenshots](https://johantre.github.io/ms-outlook-invite/at.html) for Rule usage & creation example.
+📸 [Screenshots](https://johantre.github.io/msoutlook-invite/at.html) for Rule usage & creation example.
 <br><br>
 ## 📚 Documentation
 
