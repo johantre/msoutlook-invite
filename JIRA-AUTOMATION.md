@@ -109,7 +109,7 @@ If you need to dynamically get board IDs:
     "boardName": "{{userInputs.boardName}}"
 }
 ```
-📸 [Screenshots](https://johantre.github.io/ms-outlook-invite/at.html) for Rule usage & creation example.
+📸 [Screenshots](https://johantre.github.io/msoutlook-invite/at.html) for Rule usage & creation example.
 
 ## 📖 Automation Rule Explained
 
