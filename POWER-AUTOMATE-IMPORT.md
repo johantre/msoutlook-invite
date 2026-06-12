@@ -109,7 +109,7 @@ flowchart TD
 5. Wait for import to complete (status shows on top)
 6. Open the solution and **turn on** the flow
 
-📸 [Screenshots](https://johantre.github.io/ms-outlook-invite/pa.html)
+📸 [Screenshots](https://johantre.github.io/msoutlook-invite/pa.html)
 
 ---
 
