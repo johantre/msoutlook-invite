@@ -123,7 +123,7 @@ Email clients have limited CSS support. Follow these guidelines:
 The existing templates use GitHub Pages for image hosting:
 
 ```
-https://johantre.github.io/ms-outlook-invite/images/bmw.png
+https://johantre.github.io/msoutlook-invite/images/bmw.png
 ```
 
 These images are stored in `docs/images/` and served via GitHub Pages.
@@ -141,7 +141,7 @@ See `templates/mail/default.html` for an example without background images. Uses
 If contributing to this repo:
 
 1. Add your image to `docs/images/`
-2. Reference it as `https://johantre.github.io/ms-outlook-invite/images/yourimage.png`
+2. Reference it as `https://johantre.github.io/msoutlook-invite/images/yourimage.png`
 
 #### 3️⃣ Option 3: Host Your Own Images
 
