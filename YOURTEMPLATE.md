@@ -235,7 +235,7 @@ This replaces your template placeholders with Power Automate expressions and upd
    - and will be moved to AUTO-INVITE Outlook folder
 7. Your imported PA automation will be triggered and create an invite in your Outlook Calendar.
 
-📸 Screenshots [click to view](https://johantre.github.io/ms-outlook-invite/pa.html)
+📸 Screenshots [click to view](https://johantre.github.io/msoutlook-invite/pa.html)
 
 ## ✅ Checklist Before Submitting
 
